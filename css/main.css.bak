@@ -227,10 +227,10 @@ html {
 }
 */
 @font-face {
-  font-family: "Montserrat";
+  font-family: Montserrat;
   font-weight: 100 900;
   font-style: oblique 0deg 10deg;
-  src: url("/fonts/Montserrat.woff2") format("woff2");
+  src: url("/fonts/SpaceGrotesk.woff2") format("woff2");
 }
 
 /*
@@ -685,8 +685,8 @@ dt {
   }
 }
 html {
-  font-family: Montserrat, sans-serif;
-  --font-family: Montserrat, sans-serif;
+  font-family: Exo 2, sans-serif;
+  --font-family: Exo 2, sans-serif;
 }
 form {
   padding: 1.5em 1.5em 0;
